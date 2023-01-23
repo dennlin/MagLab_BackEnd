@@ -1,0 +1,8 @@
+user_id=61438c5be51b5150989e6efa
+user_name=jun123
+datetime=2021-10-03 00:16:26.544094 UTC
+duration=0
+lat=42.40
+long=-73.45
+pniFilename=pniTest.txt
+gpsFilename=test1_gps.txt

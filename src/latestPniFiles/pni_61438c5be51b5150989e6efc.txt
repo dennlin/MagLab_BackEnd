@@ -1,0 +1,8 @@
+user_id=61438c5be51b5150989e6efc
+user_name=prof
+datetime=2022-01-15 00:16:26.544094 UTC
+duration=0
+lat=0
+long=-59.45
+pniFilename=pniTest2.txt
+gpsFilename=test1_gps.txt
